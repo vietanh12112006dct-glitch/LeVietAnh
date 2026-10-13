@@ -1,0 +1,15 @@
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.exe
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.deps.json
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.runtimeconfig.json
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.dll
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.pdb
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfoInputs.cache
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfo.cs
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.dll
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\refint\QuanLySinhVien.dll
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.pdb
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.genruntimeconfig.cache
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\ref\QuanLySinhVien.dll
+D:\hoctap\.net\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySi.3CF0D20D.Up2Date
